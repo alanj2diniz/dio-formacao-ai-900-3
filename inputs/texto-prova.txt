@@ -1,0 +1,1 @@
+O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte ou materiais desenvolvido durante este conteúdo deve estar dentro do seu github para comprovar seu conhecimento.
